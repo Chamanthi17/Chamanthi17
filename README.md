@@ -1,4 +1,4 @@
-<<h3 align="center">Hi there! 👋 I'm Chamanthi</h3>
+<h3 align="center">Hi there! 👋 I'm Chamanthi</h3>
 <p align="center">Software Engineer • Cloud Enthusiast • Full-stack Developer</p>
 
 ---
